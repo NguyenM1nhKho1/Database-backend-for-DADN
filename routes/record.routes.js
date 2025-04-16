@@ -8,8 +8,6 @@ import logRoutes from "./logRoutes";
 import userRoutes from "./userRoutes";
 import deviceRoutes from "./deviceRoutes";
 import scheduleRoutes from "./scheduleRoutes";
-// import temperatureHumidity from "../models/DHT20SensorData.js";
-// import light from "../models/LightSensorData.js";
 
 const router = express.Router();
 
